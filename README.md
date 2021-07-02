@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlgaShilenkova.
 
- I’m a web developer from Belarus-Israeil-Canada. Currently based in Regina,SK.
+ I’m a web developer from Belarus-Israel-Canada. Currently based in Regina,SK.
 
 My specialties include:
 
