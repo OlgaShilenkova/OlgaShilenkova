@@ -4,9 +4,11 @@
 
 My specialties include:
 
- - Full stack development with MongoDB, Node.js, Express.js, APIs, EJS and  React. 
+ - Full stack development with PostgreSQL, Node.js, Express.js, APIs, EJS and  React. 
 
- - In 2021 I graduated from "The Complite Web Development" bootcamp at App Brewery - London's Leading Programming Bootcamp, prior to which I earned a Master’s degree in Special Education from the Belarussian State Pedagogical University. As a former pedagog, I am very much focused on the human side of technology.
+ - In Feb 2022 I achieved Diploma at Lighthouse Labs as a 'Full Stack Web Developer'. 
+ - In 2021 I graduated from "The Complite Web Development" bootcamp at App Brewery - London's Leading Programming Bootcamp,
+ -  prior to which I earned a Master’s degree in Special Education from the Belarussian State Pedagogical University. As a former pedagog, I am very much focused on the human side of technology.
 
 - My previous experience in rhythmic gymnastics coaching has proved invaluable, as I am highly skilled in time management and communication , high stress resistance, responsible and technological.
 - 📫 How to reach me: olga1shilenkova@gmail.com
